@@ -1,0 +1,7 @@
+export const PEOPLE_SUCCESS = 'PEOPLE_SUCCESS'
+export const SELECT_HERO = 'SELECT_HERO'
+export const LOAD_FILMS = 'LOAD_FILMS'
+export const PAGINATION = 'PAGINATION'
+export const CHANGE_PAGINATION = 'CHANGE_PAGINATION'
+export const SEARCH_PEOPLE = 'SEARCH_PEOPLE'
+export const ERROR = 'ERROR'
